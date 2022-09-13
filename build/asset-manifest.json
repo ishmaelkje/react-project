@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bae71e8c.css",
+    "main.js": "/static/js/main.add4da6a.js",
+    "static/js/787.64b4eab8.chunk.js": "/static/js/787.64b4eab8.chunk.js",
+    "static/media/STEP.jpg": "/static/media/STEP.c6230c4a0a6958915abd.jpg",
+    "static/media/Golfing.jpg": "/static/media/Golfing.e2a22e38448fa85b5bf6.jpg",
+    "static/media/Me&Wi2.jpg": "/static/media/Me&Wi2.97652c21a56618bf96ee.jpg",
+    "static/media/Me&Wi.jpg": "/static/media/Me&Wi.84f9816c6f7e31618483.jpg",
+    "index.html": "/index.html",
+    "main.bae71e8c.css.map": "/static/css/main.bae71e8c.css.map",
+    "main.add4da6a.js.map": "/static/js/main.add4da6a.js.map",
+    "787.64b4eab8.chunk.js.map": "/static/js/787.64b4eab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bae71e8c.css",
+    "static/js/main.add4da6a.js"
+  ]
+}
